@@ -1,0 +1,10 @@
+opencv-python>=4.1
+opencv-contrib-python>=4.1
+numpy>=1.18
+matplotlib>=3.2
+scipy>=1.4
+gTTS>=2.1
+image>=1.5
+pytesseract>=0.3
+picamera>=1.13
+playsound>=1.2
